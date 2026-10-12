@@ -33,7 +33,7 @@ There's a Linux build too (`MaGestic-Linux.tar.gz`): unpack it and run `run-mage
 unsigned prototype, so Windows SmartScreen may ask you to confirm, and the APK installs from outside
 the Play Store.
 
-## What's in the latest version
+## What's in the latest version (v0.24)
 
 - **Gentler shots that actually work:** a slow slice that chops down plays as a drop shot, a soft
   touch shot gets the longer timing window so it isn't called "Too early" as often, and a gentle
